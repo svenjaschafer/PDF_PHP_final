@@ -121,7 +121,7 @@ if(isset($_POST['checkbox_submit'])){
           <h2>Diplom</h2>
           <p>Gratuliere, du hast alle Aufgaben für das Minor Webtech erfüllt.</p>
           <p>Klick auf den Button um dein Diplom zu generieren.</p>
-          <a class="btn btn-secondary btn-lg" href="<?php echo $base_url ?>pdf.php" role="button" target="_blank">Diplom</a>
+          <a class="btn btn-secondary btn-lg" href="<?php echo $base_url ?>/pdf.php" role="button" target="_blank">Diplom</a>
         <?php } ?>
       </section>
      </div>
