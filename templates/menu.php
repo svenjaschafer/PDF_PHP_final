@@ -16,7 +16,7 @@
       <div class="navbar-nav">
 <!-- Der folgende Menüunkt wird nur angezeigt, wenn User eingeloggt ist -->
         <?php if($logged_in){ ?>
-        <a class="nav-link" href="<?php echo $base_url ?>login.php">Abmelden</a>
+        <a class="nav-link" href="<?php echo $base_url ?>/login.php">Abmelden</a>
         <?php } ?>
       </div>
     </div>
