@@ -70,6 +70,7 @@ if(isset($_POST['checkbox_submit'])){
      <div align="center">
       <!-- Navigation -->
       <?php require_once('templates/menu.php'); //Navigation einbinden ?>
+       
       <!-- Inhalt -->
       <section>
         <br><br><br><br>
